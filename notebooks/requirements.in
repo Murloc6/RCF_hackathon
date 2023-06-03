@@ -7,3 +7,4 @@ scikit-learn
 sparql-dataframe
 beautifulsoup4
 tqdm
+ipywidgets
